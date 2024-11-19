@@ -9,11 +9,11 @@ if b > a:
     print('b is greater thatn a')
     print(b)
 
-b = 20
 a = 1000
 
 if a > b:
     printerbuddy('Now a is greater than b')
 
 print('Hi')
-print('I am new')
+print('I am new!!')
+print('Me too')
