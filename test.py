@@ -10,9 +10,10 @@ if b > a:
     print(b)
 
 b = 20
-a = 100
+a = 1000
 
 if a > b:
     printerbuddy('Now a is greater than b')
 
 print('Hi')
+print('I am new')
