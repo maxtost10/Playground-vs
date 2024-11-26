@@ -15,5 +15,6 @@ if a > b:
     printerbuddy('Now a is greater than b')
 
 print('Hi')
-print('I am new!!')
+print('I am older!!')
 print('Me too')
+print('I need more money')
