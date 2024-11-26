@@ -15,5 +15,4 @@ if a > b:
     printerbuddy('Now a is greater than b')
 
 print('Hi')
-print('I am new!!')
-print('Me too')
+print('I am Alfred!!')
